@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mozilla Glean is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mozilla.org/
+Mozilla Glean is an open-source telemetry library developed by Mozilla that provides cross-platform SDKs for collecting, aggregating, and exporting product usage data. It powers data collection in Firefox and other Mozilla applications, offering a privacy-preserving design, configurable metrics, and a data-control plane for developers to manage data pipelines. The project is hosted on GitHub and documented with comprehensive guides, API references, and examples for Android, iOS, JavaScript, Rust, and other platforms.
+
+**Areas:** Telemetry · SDK · OpenSource · DataEngineering · Mozilla
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mozilla.org/)
+- [Documentation](https://mozilla.github.io/glean/)
+- [Getting started](https://mozilla.github.io/glean/book/user/adding-glean-to-your-project/index.html)
+- [Support](https://support.mozilla.org/)
+- [Blog](https://blog.mozilla.org/data/tag/glean/)
+- [Security](https://www.mozilla.org/en-US/security/)
+- [Terms of service](https://www.mozilla.org/en-US/about/legal/terms/mozilla/)
+- [Privacy policy](https://www.mozilla.org/en-US/privacy/)
+- [GitHub](https://github.com/mozilla/glean)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mozilla/](https://apis.io/providers/mozilla/).
